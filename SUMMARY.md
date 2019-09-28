@@ -30,6 +30,7 @@
     * [工具：redis-trib.rb](cluster/trib.md)
 * [应用案例](case/README.md)
     * [缓存](case/cache.md)
+    * [原子操作](case/atomic.md)
 * [开发运维](devops/README.md)
 * [配置](config/README.md)
 
