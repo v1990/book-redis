@@ -1,0 +1,30 @@
+{
+    "title": "redis学习笔记",
+    "description": "redis学习笔记",
+    "author": "Viggo Chen <rongweichen@hotmail.com>",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "主页": "http://www.v1990.com.cn"
+        }
+    },
+    "plugins": [
+        "ancre-navigation",
+        "chapter-fold",
+        "code",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "splitter",
+        "sectionx"
+    ],
+    "pluginsConfig": {
+        "page-toc": {
+            "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first",
+            "showByDefault": true
+        }
+    }
+}
