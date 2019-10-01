@@ -35,3 +35,6 @@ typedef struct zskiplist {
 } zskiplist;
 ```
 
+## 参考资料
+- [深入剖析 redis 数据结构 skiplist](http://daoluan.net/%E6%9C%AA%E5%88%86%E7%B1%BB/2014/06/26/decode-redis-data-struct-skiplist.html)
+- [redis 源码日志](http://daoluan.net/redis-source-notes/)

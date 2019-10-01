@@ -7,7 +7,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "主页": "http://www.v1990.com.cn"
+            "主页": "#"
         }
     },
     "plugins": [
